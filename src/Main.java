@@ -6,5 +6,6 @@ public class Main {
       int quantity=10;
         System.out.println(price*quantity);
         System.out.println("this is a new code");
+        System.out.println("This is Sparta");
         }
     }
